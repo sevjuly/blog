@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
+#About me
+빅데이터응용학과 3학년 박선민입니다.
 
+#관심 분야
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
